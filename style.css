@@ -1,0 +1,15 @@
+#first{
+    color: teal;
+}
+
+#second{
+    color: red;
+}
+
+#fifth{
+    color: green;
+}
+
+#second:hover{
+    color: purple;
+}
